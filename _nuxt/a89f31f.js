@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{370:function(e){e.exports=JSON.parse('{"welcome":"Д","partners":"Организаторы | Партнеры | Организаторы и партнеры","categories":{"ui":"Пользовательский<br>интерфейс","graphDesign":"Графический<br>дизайн","webDesign":"Веб-дизайн","style":"Фирменный<br>стиль","marketing":"Маркетинг","app":"Приложения"}}')}}]);

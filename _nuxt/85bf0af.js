@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{371:function(e){e.exports=JSON.parse('{"welcome":"welc","partners":"Orgs | Prtners | Orgz and prtners","categories":{"ui":"Пользовательский<br>интерфейс","graphDesign":"Графический<br>дизайн","webDesign":"Веб-дизайн","style":"Фирменный<br>стиль","marketing":"Маркетинг","app":"Приложения"}}')}}]);
